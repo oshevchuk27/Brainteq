@@ -3,4 +3,3 @@ module.exports = {
   extends: ['custom'],
   plugins: ['@next/next'],
 }
-

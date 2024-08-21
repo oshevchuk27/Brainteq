@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Brainteq
 Reprogram your mind
-=======
+
 ⚠️️ **Please note**: Takeout is closed source for now. We've had a number of people create public repos on accident. Please be careful to keep the source private as per the license.
 
 # Tamagui's Takeout Starter

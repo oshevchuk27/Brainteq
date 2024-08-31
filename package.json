@@ -7,9 +7,10 @@
     "supabase"
   ],
   "scripts": {
+    "expo": "expo",
     "_with-env": "dotenv -e .env -c -- ",
-    "ios": "cd apps/expo && yarn ios",
-    "android": "cd apps/expo && yarn android",
+    "ios": "expo run:ios",
+    "android": "expo run:android",
     "native": "cd apps/expo && yarn start",
     "watch": "yarn check:type:watch & yarn workspaces foreach -pi --all run watch",
     "web": "yarn build && cd apps/next && yarn dev",
@@ -42,7 +43,8 @@
     "generate": "turbo gen",
     "gen": "yarn generate",
     "add:font": "yarn workspace tamagui-fonts-and-icons run add:font",
-    "add:icon": "yarn workspace tamagui-fonts-and-icons run add:icon"
+    "add:icon": "yarn workspace tamagui-fonts-and-icons run add:icon",
+    "start": "expo start --dev-client"
   },
   "resolutions": {
     "react": "^18.2.0",
@@ -71,6 +73,11 @@
   },
   "packageManager": "yarn@4.1.0",
   "dependencies": {
-    "openai": "^4.54.0"
-  }
+    "expo": "^51.0.0",
+    "expo-dev-client": "~4.0.25",
+    "expo-status-bar": "~1.12.1",
+    "openai": "^4.54.0",
+    "react-native": "0.74.1"
+  },
+  "version": "1.0.0"
 }

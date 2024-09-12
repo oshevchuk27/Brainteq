@@ -335,4 +335,3 @@ This error is likely caused my not having Supabase setup correctly and running i
 - Where is the initial page that gets rendered on the Expo app?
 
 We recommend you familiarize yourself with how Expo Router handles routing on [their docs](https://docs.expo.dev/router/introduction/). In a fresh Takeout project, the initial page would be on `apps/expo/app/(tabs)/index.tsx`.
->>>>>>> master

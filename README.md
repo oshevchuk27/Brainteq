@@ -7,7 +7,7 @@ Our website: https://www.brainteqapp.com/
 
 ## Demo video
 
-Watch the demo video of the app: https://drive.google.com/file/d/1vCu9gyHCJ7DakUyFurkKj5Gj_SkJ4bk1/view?usp=sharing
+Watch the demo video of the app: https://drive.google.com/file/d/1T-O14ldp7rf0mKtgNAjfmEX2VLTO00i1/view?usp=sharing
 
 ## Features
 - AI-powered chatbot therapist

@@ -5,6 +5,10 @@ Brainteq is a mental health tool designed to help users overcome anxiety, stress
 
 Our website: https://www.brainteqapp.com/
 
+## Demo video
+
+Watch the demo video of the app: https://drive.google.com/file/d/1vCu9gyHCJ7DakUyFurkKj5Gj_SkJ4bk1/view?usp=sharing
+
 ## Features
 - AI-powered chatbot therapist
 - Anxiety and stress management techniques

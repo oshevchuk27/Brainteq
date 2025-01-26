@@ -17,7 +17,7 @@ Our website: https://www.brainteqapp.com/
 ### Prerequisites
 - **Homebrew** installed
 
-To get started with Brainteq, follow the steps below:
+To get started with AI counselor, follow the steps below:
 
 ### Clone the repository:
    ```bash

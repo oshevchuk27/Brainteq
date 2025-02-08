@@ -5,6 +5,11 @@ AI counselor is a mental health tool designed to help users overcome anxiety, st
 
 Our website: https://www.brainteqapp.com/
 
+Chatbot demo on mobile:
+
+![Chatbot_preview](https://github.com/user-attachments/assets/a50bb1e4-563a-4bab-9ca8-94b911ca92eb)
+
+
 App demo (web version):
 
 https://drive.google.com/file/d/1q8EgGuzg9gt9EyiCcbUSRG-_IG8MyCSw/view

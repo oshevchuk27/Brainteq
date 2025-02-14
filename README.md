@@ -31,7 +31,7 @@ To get started with AI counselor, follow the steps below:
 
 ### Clone the repository:
    ```bash
-   git clone https://github.com/oshevchuk27/brainteq.git
+   git clone https://github.com/oshevchuk27/ai-counselor.git
    ```
 
 ### Install dependencies:
